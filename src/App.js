@@ -28,29 +28,7 @@ import NotesList from './components/NotesList';
        date: '29/05/2022',
        },
 
-       {
-       id:nanoid(),
-       text: 'This is my 5th note!!',
-       date: '30/05/2022',
-       },
-      
-       {
-       id:nanoid(),
-       text: 'This is my 6th note!!',
-       date: '31/05/2022',
-       },
-
-       {
-       id:nanoid(),
-       text: 'This is my 7th note!!',
-       date: '01/06/2022',
-       },
-
-       {
-       id:nanoid(),
-       text: 'This is my 8th note!!',
-       date: '2/06/2022',
-       },
+       
 
      ]);
 
