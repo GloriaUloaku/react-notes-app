@@ -32,9 +32,14 @@ import NotesList from './components/NotesList';
 
      ]);
 
+     const addNote = (text) => {
+       console.log(text);
+
+     };
+
      return (
         <div className='container'>
-            <NotesList  notes={notes}/>
+            <NotesList  notes={notes} handleAddNote />
         </div>
      );
     
