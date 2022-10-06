@@ -7,25 +7,25 @@ import NotesList from './components/NotesList';
        {
        id:nanoid(),
        text: 'This is my 1st note!!',
-       date: '26/05/2022',
+       date: '04/10/2022',
        },
 
        {
        id:nanoid(),
        text: 'This is my 2nd note!!',
-       date: '27/05/2022',
+       date: '05/10/2022',
        },
 
        {
        id:nanoid(),
        text: 'This is my 3rd note!!',
-       date: '28/05/2022',
+       date: '06/10/2022',
        },
 
        {
        id:nanoid(),
        text: 'This is my 4th note!!',
-       date: '29/05/2022',
+       date: '07/10/2022',
        },
 
        
